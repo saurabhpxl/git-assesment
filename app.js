@@ -1,6 +1,7 @@
 /**
  * A Print function
  */
+
 function printLine()
 {
     return `Speak of the devil!`;
@@ -9,7 +10,6 @@ function printJumboTronLine()
 {
     return `Speak of the devil, and Devil is here !`;
 }
-
 
 /**
  * A Heading  function
